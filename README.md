@@ -3,7 +3,7 @@
 
 *  Exploratory data analysis on:
   * 🥇 Cyptocurrencies
-  * 💹 BIST stocks.
+  * 💹 BIST stocks
 
 
 
